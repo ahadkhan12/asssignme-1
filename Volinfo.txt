@@ -1,0 +1,9 @@
+Product Name: 	CorelDRAW Graphics Suite 2018 - Corporate
+Language: 	EN DE FR IT NL ES BR CZ PL RU CT CS JP TR
+OS: 		Windows 7 SP1, Windows 8.1 or Windows 10, in 32-bit or 64-bit, all with latest Updates and Service Pack
+Media No: 	DVD 1
+Build No: 20.0.0.633 	
+MF No: 		01
+Source ID: 	807001
+Agile No:	02280
+Date Mastered: Thursday, March 22, 2018 8:55 PM 	
